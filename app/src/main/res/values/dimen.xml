@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_margin_top">130dp</dimen>
+    <dimen name="image_width">180dp</dimen>
+    <dimen name="image_height">155dp</dimen>
+    <dimen name="Main_text_size">28dp</dimen>
+    <dimen name="Small_text_size">18dp</dimen>
+    <dimen name="Mlayout_marginLeft">30dp</dimen>
+    <dimen name="Slayout_marginLeft">20dp</dimen>
+    <dimen name="Mtext_width">340dp</dimen>
+    <dimen name="Mtext_height">48dp</dimen>
+    <dimen name="Mmargin_top">40dp</dimen>
+    <dimen name="Smargin_top">10dp</dimen>
+    <dimen name="Smargin_right">20dp</dimen>
+    <dimen name="Spadding">10dp</dimen>
+</resources>

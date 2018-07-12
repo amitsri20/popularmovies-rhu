@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="udacity.popular_movie_stage1.MainActivity">
+
+    <item
+        android:id="@+id/share"
+        app:showAsAction="collapseActionView"
+        android:title="Popular Movies"/>
+
+
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="collapseActionView"
+        android:title="Top-Rated Movies"/>
+
+    <item
+        android:id="@+id/favourite_movie"
+        app:showAsAction="collapseActionView"
+        android:title="Favourite Movies"/>
+
+
+</menu>

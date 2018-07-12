@@ -1,0 +1,4 @@
+#Wed Jul 11 12:36:28 IST 2018
+base.0=C\:\\Users\\lenovo-pc\\AndroidStudioProjects\\popular_movie_stage\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,100 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\home\\rk\\AndroidStudioProjects\\popular_movie_stage\\C:\\Users\\lenovo-pc\\AndroidStudioProjects\\popular_movie_stage\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\rk\\AndroidStudioProjects\\popular_movie_stage\\C:\\Users\\lenovo-pc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2b47d76f982700bdc8d1a1cb86e773fd\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
+                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
+                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
+                    }
+                },
+                {
+                    "source": "C:\\home\\rk\\AndroidStudioProjects\\popular_movie_stage\\C:\\Users\\lenovo-pc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dacb31dc4abb34969bc9a30d59973eac\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1941",
+                        "endColumns": "100",
+                        "endOffsets": "2037"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\home\\rk\\AndroidStudioProjects\\popular_movie_stage\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\rk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1c1fa5e128325b2bb239bfe4fa654ab7\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1941",
+                        "endColumns": "100",
+                        "endOffsets": "2037"
+                    }
+                },
+                {
+                    "source": "C:\\home\\rk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ce05359876a5c9597b04ccea9c30f7b5\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
+                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
+                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\lenovo-pc\\AndroidStudioProjects\\popular_movie_stage\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mn\\values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo-pc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\dacb31dc4abb34969bc9a30d59973eac\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1941",
+                        "endColumns": "100",
+                        "endOffsets": "2037"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lenovo-pc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2b47d76f982700bdc8d1a1cb86e773fd\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
+                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
+                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
+                    }
+                }
+            ]
+        }
+    ]
+}

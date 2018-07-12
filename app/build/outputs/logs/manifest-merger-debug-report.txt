@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e661117422903a67235adb16f2a287f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd1f5ed400550fa6ad65afd1856f1a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\3eebba8e9fc7b9f6fac651bb01d32c89\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2b47d76f982700bdc8d1a1cb86e773fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54a3afaaef75dc5196c0d4f30683f5f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ed6a33eda8b26cdd8b2cd74bcb6234c0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9fc3aa1f47c9a1aeec77a906386aff3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d165a54e9cf05a4f2c7644e5ae44f49b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\735e2a55a3d888068cb3c1fdb59ad985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c774f80954535f94002cdd9851d8e24e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0780f5bec331d6d734e6acc16b1999b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7413cb196e64a6c3d4ccb86fd1e00b30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dacb31dc4abb34969bc9a30d59973eac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\423d42df1d163ffc1cff834c2f85827e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ce9ae8e0a4b16efffbcb11b6b8a7f19c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16997d983827f1df47525f734f196231\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3c5bfa10f8b4bf00e298912d432efc8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:10:5-37:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\3eebba8e9fc7b9f6fac651bb01d32c89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\3eebba8e9fc7b9f6fac651bb01d32c89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ed6a33eda8b26cdd8b2cd74bcb6234c0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ed6a33eda8b26cdd8b2cd74bcb6234c0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:12:9-40
+	android:allowBackup
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:16:9-40
+activity#udacity.popular_movie_stage1.SplashActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:17:9-31:20
+	android:label
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:18:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:24:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:29:27-73
+activity#udacity.popular_movie_stage1.MainActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:32:19-47
+activity#udacity.popular_movie_stage1.DetailActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:33:19-49
+activity#udacity.popular_movie_stage1.PopularActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:34:19-50
+activity#udacity.popular_movie_stage1.TopRatedActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:35:19-51
+activity#udacity.popular_movie_stage1.FavouriteMovieActivity
+ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:36:9-69
+	android:name
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml:36:19-57
+uses-sdk
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e661117422903a67235adb16f2a287f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e661117422903a67235adb16f2a287f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd1f5ed400550fa6ad65afd1856f1a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd1f5ed400550fa6ad65afd1856f1a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\3eebba8e9fc7b9f6fac651bb01d32c89\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\3eebba8e9fc7b9f6fac651bb01d32c89\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2b47d76f982700bdc8d1a1cb86e773fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2b47d76f982700bdc8d1a1cb86e773fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54a3afaaef75dc5196c0d4f30683f5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54a3afaaef75dc5196c0d4f30683f5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ed6a33eda8b26cdd8b2cd74bcb6234c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ed6a33eda8b26cdd8b2cd74bcb6234c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9fc3aa1f47c9a1aeec77a906386aff3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9fc3aa1f47c9a1aeec77a906386aff3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d165a54e9cf05a4f2c7644e5ae44f49b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d165a54e9cf05a4f2c7644e5ae44f49b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\735e2a55a3d888068cb3c1fdb59ad985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\735e2a55a3d888068cb3c1fdb59ad985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c774f80954535f94002cdd9851d8e24e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c774f80954535f94002cdd9851d8e24e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0780f5bec331d6d734e6acc16b1999b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0780f5bec331d6d734e6acc16b1999b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7413cb196e64a6c3d4ccb86fd1e00b30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7413cb196e64a6c3d4ccb86fd1e00b30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dacb31dc4abb34969bc9a30d59973eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dacb31dc4abb34969bc9a30d59973eac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\423d42df1d163ffc1cff834c2f85827e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\423d42df1d163ffc1cff834c2f85827e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ce9ae8e0a4b16efffbcb11b6b8a7f19c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ce9ae8e0a4b16efffbcb11b6b8a7f19c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16997d983827f1df47525f734f196231\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16997d983827f1df47525f734f196231\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3c5bfa10f8b4bf00e298912d432efc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lenovo-pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3c5bfa10f8b4bf00e298912d432efc8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo-pc\AndroidStudioProjects\popular_movie_stage\app\src\main\AndroidManifest.xml
